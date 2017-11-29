@@ -29,12 +29,6 @@ body {
     margin: 0 auto;
 }
 
-.scatter {
-  overflow: visible;
-    text-align: center;
-    margin-bottom: 100px;
-}
-
 
 @media screen and (max-width: 799px) {
  aside {right: 0px;}
@@ -184,4 +178,42 @@ div.tooltip {
     border: 0px;		
     border-radius: 8px;			
     pointer-events: none;			
+}
+
+.header h1{    
+    margin-top: 0;
+    margin-bottom: 20px;
+    color: #525095;
+    font-size: 240%;    
+    word-spacing: 1px;
+    letter-spacing: 1px;
+}
+
+.footer {
+    font-size: 150%;
+    line-height: 145%;
+    background-color: #525095;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    height: 150px;
+}
+
+.footer p {
+    margin-top: 20px;
+    display: block;
+}
+
+.footer a:link
+,.footer a:visited {
+    text-decoration: none;
+    color: #fff;
+}
+
+.descripcion{    
+    font-size: 130%;
+    line-height: 145%;
+    text-align: justify;
+    width: 70%;
+    margin-bottom: 40px;
 }
