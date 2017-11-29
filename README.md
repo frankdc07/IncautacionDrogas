@@ -1,4 +1,4 @@
-# Visualización de incautacion de drogas en Colombia durante el 2017
+# Visualización sobre incautación de drogas en Colombia durante el 2017
 
 El presente trabajo muestra un breve resumen de la situación de drogas en Colombia, evidenciando la cantidad y los tipos de drogas ilegales que son incautados en los departamentos. 
 
